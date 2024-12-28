@@ -1,0 +1,1 @@
+<img src="{{ asset('storage/logo-clear.png') }}" alt="Website Logo" class="w-12 h-12">
